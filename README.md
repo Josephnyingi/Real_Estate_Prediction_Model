@@ -1,0 +1,2 @@
+# Real_Estate_Prediction_Model
+This repository contains a prediction model that can be used to accurately predict the sale price of houses given various predictor variables. Various regression models were tested after studying different factors that affect housing prices in the real estate industry. The models used in this analysis are multiple linear regression, quantile regression, ridge regression, lasso regression, and elastic net regression.
